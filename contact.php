@@ -1,5 +1,4 @@
 <?php
-// Free html5 templates : https://www.zerotheme.com
 
 $text = "<span style='color:red; font-size: 35px; line-height: 40px; magin: 10px;'>Error! Please try again.</span>";
 
@@ -36,8 +35,8 @@ if(isset($_POST['submitcontact']))
   ================================================== -->
 	<meta charset="utf-8">
 	<title>zPainting</title>
-	<meta name="description" content="Free Responsive Html5 Css3 Templates | Zerotheme.com">
-	<meta name="author" content="https://www.zerotheme.com">
+	<meta name="description" content="RimCity">
+	<meta name="author" content="Rimsky">
 	
     <!-- Mobile Specific Metas
 	================================================== -->
